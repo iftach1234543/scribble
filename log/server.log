@@ -1,0 +1,13 @@
+INFO | 2024-04-20 12:35:00,814 | Validating environment...
+INFO | 2024-04-20 12:35:00,816 | Server listening for connections...
+INFO | 2024-04-20 12:35:00,816 | Server2 listening for connections...
+INFO | 2024-04-20 12:35:05,197 | Accepted connection from ('127.0.0.1', 56645)
+INFO | 2024-04-20 12:35:05,726 | Accepted connection from ('127.0.0.1', 56646)
+INFO | 2024-04-20 12:35:13,783 | Accepted connection from ('127.0.0.1', 56647)
+INFO | 2024-04-20 12:35:14,799 | Accepted connection from ('127.0.0.1', 56648)
+INFO | 2024-04-20 12:35:25,071 | Accepted connection from ('127.0.0.1', 56649)
+INFO | 2024-04-20 12:35:26,404 | Accepted connection from ('127.0.0.1', 56650)
+ERROR | 2024-04-20 12:35:43,804 | Error receiving/sending data: [Errno 9] Bad file descriptor
+ERROR | 2024-04-20 12:35:43,804 | Error receiving/sending data: [Errno 9] Bad file descriptor
+ERROR | 2024-04-20 12:35:43,805 | Error receiving/sending data: [Errno 9] Bad file descriptor
+ERROR | 2024-04-20 12:35:43,805 | Error receiving/sending data: [Errno 9] Bad file descriptor
